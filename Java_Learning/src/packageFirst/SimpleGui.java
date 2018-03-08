@@ -9,7 +9,7 @@ public class SimpleGui implements ActionListener{
 	
 	JButton button;
 
-	//* testing
+	//* testing123
 	public static void main(String args[]) {
 		
 		SimpleGui SG = new SimpleGui();
